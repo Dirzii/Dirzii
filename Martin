@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="asd.css">
+    <meta charset="UTF-8">
+    <meta http-eqv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>martin</title>
+</head>
+<body>
+    <h1>Martin</h1>
+    
+    <h2>Martin</h2>
+    <h3>Martin</h3>
+    <h4>Martin</h4>
+    <h5>Martin</h5>
+    <h6>Martin</h6>
+    
+</body>
+</html>
+
+
+
+-----------------------------------------------------------------------
+
+
+
+
+body{
+    background-color: yellow;
+}
+
+
+
+h1 {
+    color: red;
+    background-color: rgba(0, 0, 0, 0.774);
+}
+
+    h2 {
+        color: rgba(0, 0, 255, 0.226);
+        background-color: rgba(104, 9, 9, 0.5);
+        
+    }
+
+    h3 {
+        color: rgba(30, 126, 30, 0.144);
+        background-color: rgb(77, 10, 10);
+    }
+h4 {
+    color: rgba(179, 144, 144, 0.288);
+    background-color: rgb(89, 21, 92);
+
+}
+h5 {
+    color: rgba(26, 23, 23, 0.452);
+    background-color: rgba(5, 122, 44, 0.349);
+}
+h6 {
+    color: rgba(24, 198, 221, 0.39);
+    background-color: rgba(121, 30, 30, 0.39);
+}
